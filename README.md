@@ -1,0 +1,16 @@
+Super Store Sales Analysis
+This project provides an in-depth analysis of Super Store sales across different regions (Central, East, South, West) and includes a 20-day sales forecast to predict future trends.📊 Project Overview
+
+The goal of this project is to:
+
+Analyze sales performance across different locations.
+
+Identify key trends in sales, profit, and quantity.
+
+Compare performance across segments, categories, and sub-categories.
+
+Understand the impact of shipping mode, payment mode, and delivery days.
+
+Build interactive dashboards for business insights.
+
+Forecast future sales using time series analysis.
