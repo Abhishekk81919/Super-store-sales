@@ -1,4 +1,6 @@
 Super Store Sales Analysis
+
+
 This project provides an in-depth analysis of Super Store sales across different regions (Central, East, South, West) and includes a 20-day sales forecast to predict future trends.
 
 
